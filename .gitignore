@@ -132,3 +132,6 @@ dist
 
 # Custom
 src/bot/setting.yml
+src/bot/config/*
+src/plugins/config/*
+!.gitkeep
